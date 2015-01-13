@@ -1,7 +1,7 @@
 #
 # ElasticSearch Dockerfile
 #
-# https://github.com/dockerfile/elasticsearch
+# https://github.com/Gasol/elasticsearch
 #
 
 # Pull base image.
